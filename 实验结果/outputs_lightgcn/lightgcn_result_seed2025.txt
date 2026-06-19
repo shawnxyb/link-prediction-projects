@@ -1,0 +1,21 @@
+LightGCN Results
+Seed: 2025
+Nodes: 4039
+Edges: 88234
+Train edges: 70588
+Val edges: 8823
+Test edges: 8823
+Embedding dim: 64
+Layers: 2
+Parameters: 258496
+Best epoch: 154
+Best Val AP: 0.9902
+Training time: 65.59 seconds
+Test AUC: 0.9919
+Test AP: 0.9905
+Precision@10: 0.1286
+Recall@10: 0.2574
+NDCG@10: 0.2394
+Precision@20: 0.1027
+Recall@20: 0.3700
+NDCG@20: 0.2759

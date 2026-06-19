@@ -1,0 +1,29 @@
+LightGCN Results
+Run name: loss-bpr_neg-mixed_dim64_layer2_seed2024
+Seed: 2024
+Nodes: 4039
+Edges: 88234
+Train edges: 70588
+Val edges: 8823
+Test edges: 8823
+Embedding dim: 64
+Layers: 2
+Loss type: bpr
+Train negative type: mixed
+Hard negative ratio: 0.5
+Eval negative type: random
+Hard negative pool size: 1006463
+Parameters: 258496
+Best epoch: 188
+Best Val AP: 0.9923
+Training time: 152.65 seconds
+Test AUC: 0.9943
+Test AP: 0.9936
+Precision@10: 0.1753
+Recall@10: 0.3887
+Hits@10: 0.7484
+NDCG@10: 0.3405
+Precision@20: 0.1363
+Recall@20: 0.5410
+Hits@20: 0.8368
+NDCG@20: 0.3917

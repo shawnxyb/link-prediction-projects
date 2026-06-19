@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pt
+*.npz
